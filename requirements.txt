@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
 shap
-pickle
 pandas
 matplotlib
