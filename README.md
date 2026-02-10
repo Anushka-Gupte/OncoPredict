@@ -12,6 +12,7 @@ This repository is intended for research / educational use and demonstrates an e
 ---
 
 ## Demo
+https://cnjfbpmk8kek7qkvitdh7v.streamlit.app/
 
 https://github.com/user-attachments/assets/ea602696-2837-4898-8be0-fcaa042762c7
 
